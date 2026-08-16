@@ -14,6 +14,17 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
+        "count": 0,
+        "actors": []
+      },
+      "replies": []
+    },
+    {
+      "id": "afbb21e7-01d8-4e63-97b5-f10ae6dec924",
+      "name": "Naman",
+      "text": "test 2",
+      "createdAt": "2026-08-16T18:16:06.700Z",
+      "likes": {
         "actors": [],
         "count": 0
       },
