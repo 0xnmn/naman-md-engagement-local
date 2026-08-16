@@ -26,13 +26,24 @@
           "text": "Reply to Browser verification 1786899862290",
           "createdAt": "2026-08-16T17:04:28.998Z",
           "likes": {
+            "count": 1,
             "actors": [
               "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-            ],
-            "count": 1
+            ]
           }
         }
       ]
+    },
+    {
+      "id": "c91b9b37-9658-4186-9d6d-a4d81ffb9848",
+      "name": "Turnstile browser test",
+      "text": "Turnstile verification 1786900689939",
+      "createdAt": "2026-08-16T17:18:13.809Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
     }
   ]
 }
