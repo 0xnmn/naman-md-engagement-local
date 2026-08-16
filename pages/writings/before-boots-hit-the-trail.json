@@ -37,8 +37,10 @@
           "text": "this is great",
           "createdAt": "2026-08-16T18:25:54.152Z",
           "likes": {
-            "actors": [],
-            "count": 0
+            "actors": [
+              "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+            ],
+            "count": 1
           }
         }
       ]
