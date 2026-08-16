@@ -14,10 +14,10 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
+        "count": 1,
         "actors": [
           "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ],
-        "count": 1
+        ]
       },
       "replies": []
     },
@@ -46,6 +46,17 @@
           }
         }
       ]
+    },
+    {
+      "id": "53cb526f-4ff3-4bcd-89f1-69a94986f958",
+      "name": "Anonymous",
+      "text": "test 3",
+      "createdAt": "2026-08-16T18:36:14.083Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
     }
   ]
 }
