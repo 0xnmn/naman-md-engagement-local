@@ -2,8 +2,8 @@
   "version": 1,
   "path": "/writings/before-boots-hit-the-trail",
   "pageLikes": {
-    "actors": [],
-    "count": 0
+    "count": 0,
+    "actors": []
   },
   "comments": [
     {
@@ -23,10 +23,8 @@
       "text": "test 2",
       "createdAt": "2026-08-16T18:16:06.700Z",
       "likes": {
-        "count": 1,
-        "actors": [
-          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ]
+        "actors": [],
+        "count": 0
       },
       "replies": [
         {
