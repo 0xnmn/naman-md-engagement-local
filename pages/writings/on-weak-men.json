@@ -51,10 +51,21 @@
       "text": "Turnstile verification 1786900751224",
       "createdAt": "2026-08-16T17:19:15.426Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "count": 0,
+        "actors": []
       },
-      "replies": []
+      "replies": [
+        {
+          "id": "6e0b7b39-2728-4cbc-9342-f96449745171",
+          "name": "Turnstile reply test",
+          "text": "Reply to Turnstile verification 1786900751224",
+          "createdAt": "2026-08-16T17:19:18.375Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          }
+        }
+      ]
     }
   ]
 }
