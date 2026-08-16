@@ -14,8 +14,10 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "actors": [
+          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+        ],
+        "count": 1
       },
       "replies": []
     },
@@ -37,10 +39,10 @@
           "text": "this is great",
           "createdAt": "2026-08-16T18:25:54.152Z",
           "likes": {
+            "count": 1,
             "actors": [
               "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-            ],
-            "count": 1
+            ]
           }
         }
       ]
