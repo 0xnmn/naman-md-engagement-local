@@ -25,12 +25,23 @@
       "text": "test 2",
       "createdAt": "2026-08-16T18:16:06.700Z",
       "likes": {
+        "count": 1,
         "actors": [
           "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ],
-        "count": 1
+        ]
       },
-      "replies": []
+      "replies": [
+        {
+          "id": "7a2fcc36-1180-415e-b3ee-0bd20da68f19",
+          "name": "Naman",
+          "text": "this is great",
+          "createdAt": "2026-08-16T18:25:54.152Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          }
+        }
+      ]
     }
   ]
 }
