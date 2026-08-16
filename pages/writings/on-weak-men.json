@@ -14,12 +14,23 @@
       "text": "Browser verification 1786899862290 <script>alert(\"no\")</script>",
       "createdAt": "2026-08-16T17:04:25.900Z",
       "likes": {
+        "count": 1,
         "actors": [
           "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-        ],
-        "count": 1
+        ]
       },
-      "replies": []
+      "replies": [
+        {
+          "id": "3f95b6dd-f792-4b2c-b907-0ee40b7483a3",
+          "name": "Browser reply",
+          "text": "Reply to Browser verification 1786899862290",
+          "createdAt": "2026-08-16T17:04:28.998Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          }
+        }
+      ]
     }
   ]
 }
