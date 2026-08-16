@@ -2,10 +2,22 @@
   "version": 1,
   "path": "/writings/on-weak-men",
   "pageLikes": {
+    "count": 1,
     "actors": [
       "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-    ],
-    "count": 1
+    ]
   },
-  "comments": []
+  "comments": [
+    {
+      "id": "15ec25b0-64ed-4335-99c0-0216ce7da7aa",
+      "name": "Browser verification",
+      "text": "Browser verification 1786899862290 <script>alert(\"no\")</script>",
+      "createdAt": "2026-08-16T17:04:25.900Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
+    }
+  ]
 }
