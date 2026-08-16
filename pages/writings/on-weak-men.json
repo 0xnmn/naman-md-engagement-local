@@ -61,11 +61,22 @@
           "text": "Reply to Turnstile verification 1786900751224",
           "createdAt": "2026-08-16T17:19:18.375Z",
           "likes": {
-            "actors": [],
-            "count": 0
+            "count": 0,
+            "actors": []
           }
         }
       ]
+    },
+    {
+      "id": "2849fdf8-2d14-4f1a-ae14-894fb804ac86",
+      "name": "Turnstile browser test",
+      "text": "Turnstile verification 1786900795611",
+      "createdAt": "2026-08-16T17:20:00.562Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
     }
   ]
 }
