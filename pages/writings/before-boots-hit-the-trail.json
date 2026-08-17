@@ -124,7 +124,7 @@
       "comments": []
     },
     {
-      "src": "group:b8598ba0850fc96c",
+      "src": "/media/writings/before-boots-hit-the-trail/johnsons-dining-room.webp",
       "comments": [],
       "likes": {
         "actors": [
@@ -132,6 +132,16 @@
         ],
         "count": 1
       }
+    },
+    {
+      "src": "group:b8598ba0850fc96c",
+      "likes": {
+        "count": 1,
+        "actors": [
+          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+        ]
+      },
+      "comments": []
     }
   ]
 }
