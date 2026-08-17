@@ -132,10 +132,22 @@
               "text": "hello",
               "createdAt": "2026-08-17T05:06:50.828Z",
               "likes": {
-                "actors": [],
-                "count": 0
+                "count": 0,
+                "actors": []
               },
-              "replies": []
+              "replies": [
+                {
+                  "id": "624c71a9-4fe0-472d-b484-0ca312a04636",
+                  "name": "kjkjn",
+                  "text": "hello",
+                  "createdAt": "2026-08-17T05:06:54.031Z",
+                  "likes": {
+                    "actors": [],
+                    "count": 0
+                  },
+                  "replies": []
+                }
+              ]
             }
           ]
         }
