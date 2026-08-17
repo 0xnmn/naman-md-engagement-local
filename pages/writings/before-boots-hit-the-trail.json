@@ -115,6 +115,28 @@
   "media": [
     {
       "src": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
+      "comments": [
+        {
+          "id": "757b5e3e-fe6c-43f9-97b8-5162d21b9bce",
+          "name": "kjkjn",
+          "text": "hi",
+          "createdAt": "2026-08-17T05:06:47.136Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          },
+          "replies": []
+        }
+      ],
+      "likes": {
+        "count": 1,
+        "actors": [
+          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+        ]
+      }
+    },
+    {
+      "src": "/media/writings/before-boots-hit-the-trail/johnsons-dining-room.webp",
       "likes": {
         "count": 1,
         "actors": [
@@ -122,16 +144,6 @@
         ]
       },
       "comments": []
-    },
-    {
-      "src": "/media/writings/before-boots-hit-the-trail/johnsons-dining-room.webp",
-      "comments": [],
-      "likes": {
-        "actors": [
-          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ],
-        "count": 1
-      }
     },
     {
       "src": "group:b8598ba0850fc96c",
