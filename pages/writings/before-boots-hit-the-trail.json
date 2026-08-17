@@ -14,8 +14,8 @@
       "text": "hi",
       "createdAt": "2026-08-16T19:12:26.752Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "count": 0,
+        "actors": []
       },
       "replies": []
     },
@@ -36,10 +36,8 @@
       "text": "test 2",
       "createdAt": "2026-08-16T18:16:06.700Z",
       "likes": {
-        "count": 1,
-        "actors": [
-          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ]
+        "actors": [],
+        "count": 0
       },
       "replies": [
         {
@@ -52,7 +50,8 @@
             "actors": [
               "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
             ]
-          }
+          },
+          "replies": []
         }
       ]
     },
