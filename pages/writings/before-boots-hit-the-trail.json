@@ -47,10 +47,10 @@
       "text": "test 3",
       "createdAt": "2026-08-16T18:36:14.083Z",
       "likes": {
+        "count": 1,
         "actors": [
           "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ],
-        "count": 1
+        ]
       },
       "replies": []
     },
@@ -74,6 +74,17 @@
             "actors": []
           },
           "replies": [
+            {
+              "id": "e1f74f35-e5a8-408b-8eeb-437a68a4c1cf",
+              "name": "kjkjn",
+              "text": "reply 2",
+              "createdAt": "2026-08-17T04:01:43.266Z",
+              "likes": {
+                "actors": [],
+                "count": 0
+              },
+              "replies": []
+            },
             {
               "id": "be8ff6eb-429f-45d5-a8a0-41728b8f5a14",
               "name": "kjkjn",
