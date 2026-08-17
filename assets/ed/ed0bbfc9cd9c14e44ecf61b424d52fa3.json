@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "assetId": "asset_ed0bbfc9cd9c14e44ecf61b424d52fa3",
+  "canonicalSrc": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
+  "aliases": [],
+  "likes": {
+    "actors": [
+      "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+    ],
+    "count": 1
+  },
+  "comments": [
+    {
+      "id": "f548e79f-fe29-47bf-afac-6e055ff72306",
+      "name": "Naman",
+      "text": "hi",
+      "createdAt": "2026-08-17T05:07:55.769Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
+    },
+    {
+      "id": "757b5e3e-fe6c-43f9-97b8-5162d21b9bce",
+      "name": "kjkjn",
+      "text": "hi",
+      "createdAt": "2026-08-17T05:06:47.136Z",
+      "likes": {
+        "count": 0,
+        "actors": []
+      },
+      "replies": [
+        {
+          "id": "20dffd62-a7f7-429c-bc47-fbd233e05638",
+          "name": "kjkjn",
+          "text": "hello",
+          "createdAt": "2026-08-17T05:06:50.828Z",
+          "likes": {
+            "count": 0,
+            "actors": []
+          },
+          "replies": [
+            {
+              "id": "624c71a9-4fe0-472d-b484-0ca312a04636",
+              "name": "kjkjn",
+              "text": "hello",
+              "createdAt": "2026-08-17T05:06:54.031Z",
+              "likes": {
+                "count": 0,
+                "actors": []
+              },
+              "replies": [
+                {
+                  "id": "64a08f64-1898-4688-ac15-833208ce1bd5",
+                  "name": "kjkjn",
+                  "text": "hello",
+                  "createdAt": "2026-08-17T05:06:57.766Z",
+                  "likes": {
+                    "count": 0,
+                    "actors": []
+                  },
+                  "replies": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
