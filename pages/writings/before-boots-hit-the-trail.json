@@ -117,6 +117,17 @@
       "src": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
       "comments": [
         {
+          "id": "f548e79f-fe29-47bf-afac-6e055ff72306",
+          "name": "Naman",
+          "text": "hi",
+          "createdAt": "2026-08-17T05:07:55.769Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          },
+          "replies": []
+        },
+        {
           "id": "757b5e3e-fe6c-43f9-97b8-5162d21b9bce",
           "name": "kjkjn",
           "text": "hi",
@@ -152,8 +163,8 @@
                       "text": "hello",
                       "createdAt": "2026-08-17T05:06:57.766Z",
                       "likes": {
-                        "actors": [],
-                        "count": 0
+                        "count": 0,
+                        "actors": []
                       },
                       "replies": []
                     }
