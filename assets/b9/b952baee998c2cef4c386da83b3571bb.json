@@ -4,8 +4,10 @@
   "canonicalSrc": "/media/writings/before-boots-hit-the-trail/johnsons-art-wall.webp",
   "aliases": [],
   "likes": {
-    "count": 0,
-    "actors": []
+    "actors": [
+      "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+    ],
+    "count": 1
   },
   "comments": [
     {
@@ -14,8 +16,8 @@
       "text": "hi",
       "createdAt": "2026-08-17T10:20:32.320Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "count": 0,
+        "actors": []
       },
       "replies": []
     }
