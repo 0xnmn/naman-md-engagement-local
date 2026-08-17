@@ -4,10 +4,8 @@
   "canonicalSrc": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
   "aliases": [],
   "likes": {
-    "actors": [
-      "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-    ],
-    "count": 1
+    "actors": [],
+    "count": 0
   },
   "comments": [
     {
@@ -16,8 +14,8 @@
       "text": "hi",
       "createdAt": "2026-08-17T05:07:55.769Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "count": 0,
+        "actors": []
       },
       "replies": []
     },
