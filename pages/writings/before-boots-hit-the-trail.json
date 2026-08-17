@@ -80,8 +80,8 @@
               "text": "reply 2",
               "createdAt": "2026-08-17T04:01:43.266Z",
               "likes": {
-                "actors": [],
-                "count": 0
+                "count": 0,
+                "actors": []
               },
               "replies": []
             },
@@ -110,6 +110,18 @@
         "actors": []
       },
       "replies": []
+    }
+  ],
+  "media": [
+    {
+      "src": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
+      "comments": [],
+      "likes": {
+        "actors": [
+          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+        ],
+        "count": 1
+      }
     }
   ]
 }
