@@ -49,7 +49,19 @@
             "count": 0,
             "actors": []
           },
-          "replies": []
+          "replies": [
+            {
+              "id": "be8ff6eb-429f-45d5-a8a0-41728b8f5a14",
+              "name": "kjkjn",
+              "text": "reply",
+              "createdAt": "2026-08-17T03:49:41.975Z",
+              "likes": {
+                "actors": [],
+                "count": 0
+              },
+              "replies": []
+            }
+          ]
         }
       ]
     },
@@ -59,8 +71,8 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "count": 0,
+        "actors": []
       },
       "replies": []
     }
