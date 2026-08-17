@@ -9,6 +9,17 @@
   },
   "comments": [
     {
+      "id": "fe967e13-6cbc-4d05-9dd6-b6eeb7ca537e",
+      "name": "kjkjn",
+      "text": "test",
+      "createdAt": "2026-08-17T03:55:50.876Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
+    },
+    {
       "id": "63fc1711-d424-46b5-9e22-8cea57dadf3f",
       "name": "kjkjn",
       "text": "hi",
@@ -56,8 +67,8 @@
               "text": "reply",
               "createdAt": "2026-08-17T03:49:41.975Z",
               "likes": {
-                "actors": [],
-                "count": 0
+                "count": 0,
+                "actors": []
               },
               "replies": []
             }
