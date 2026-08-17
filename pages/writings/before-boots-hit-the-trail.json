@@ -115,6 +115,16 @@
   "media": [
     {
       "src": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
+      "likes": {
+        "count": 1,
+        "actors": [
+          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
+        ]
+      },
+      "comments": []
+    },
+    {
+      "src": "group:b8598ba0850fc96c",
       "comments": [],
       "likes": {
         "actors": [
