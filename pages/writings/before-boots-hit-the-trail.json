@@ -1,11 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "path": "/writings/before-boots-hit-the-trail",
   "pageLikes": {
-    "count": 1,
-    "actors": [
-      "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-    ]
+    "count": 1
   },
   "comments": [
     {
@@ -14,8 +11,7 @@
       "text": "test 6",
       "createdAt": "2026-08-17T03:56:05.575Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     },
@@ -25,8 +21,7 @@
       "text": "test",
       "createdAt": "2026-08-17T03:55:50.876Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     },
@@ -36,8 +31,7 @@
       "text": "hi",
       "createdAt": "2026-08-16T19:12:26.752Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     },
@@ -47,10 +41,7 @@
       "text": "test 3",
       "createdAt": "2026-08-16T18:36:14.083Z",
       "likes": {
-        "count": 1,
-        "actors": [
-          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ]
+        "count": 1
       },
       "replies": []
     },
@@ -60,8 +51,7 @@
       "text": "test 2",
       "createdAt": "2026-08-16T18:16:06.700Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": [
         {
@@ -70,8 +60,7 @@
           "text": "this is great",
           "createdAt": "2026-08-16T18:25:54.152Z",
           "likes": {
-            "count": 0,
-            "actors": []
+            "count": 0
           },
           "replies": [
             {
@@ -80,8 +69,7 @@
               "text": "reply 2",
               "createdAt": "2026-08-17T04:01:43.266Z",
               "likes": {
-                "count": 0,
-                "actors": []
+                "count": 0
               },
               "replies": []
             },
@@ -91,8 +79,7 @@
               "text": "reply",
               "createdAt": "2026-08-17T03:49:41.975Z",
               "likes": {
-                "count": 0,
-                "actors": []
+                "count": 0
               },
               "replies": []
             }
@@ -106,8 +93,7 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     }
@@ -116,10 +102,7 @@
     {
       "src": "group:b8598ba0850fc96c",
       "likes": {
-        "count": 1,
-        "actors": [
-          "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA"
-        ]
+        "count": 1
       },
       "comments": []
     }

@@ -1,13 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "assetId": "asset_ed0bbfc9cd9c14e44ecf61b424d52fa3",
   "canonicalSrc": "/media/writings/before-boots-hit-the-trail/cedar-road-to-manu-temple.webp",
   "aliases": [],
   "likes": {
-    "actors": [
-      "SzmPHEyYHQDooMfxIUkZj9Y0SxY4WcT6yQrQz-hoDUA",
-      "HOngCN6gtold_jC4CwY3741ilfqxsw8Hsd2q54GSlQ8"
-    ],
     "count": 2
   },
   "comments": [
@@ -17,8 +13,7 @@
       "text": "hi",
       "createdAt": "2026-08-17T05:07:55.769Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     },
@@ -28,8 +23,7 @@
       "text": "hi",
       "createdAt": "2026-08-17T05:06:47.136Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": [
         {
@@ -38,8 +32,7 @@
           "text": "hello",
           "createdAt": "2026-08-17T05:06:50.828Z",
           "likes": {
-            "count": 0,
-            "actors": []
+            "count": 0
           },
           "replies": [
             {
@@ -48,8 +41,7 @@
               "text": "hello",
               "createdAt": "2026-08-17T05:06:54.031Z",
               "likes": {
-                "count": 0,
-                "actors": []
+                "count": 0
               },
               "replies": [
                 {
@@ -58,8 +50,7 @@
                   "text": "hello",
                   "createdAt": "2026-08-17T05:06:57.766Z",
                   "likes": {
-                    "count": 0,
-                    "actors": []
+                    "count": 0
                   },
                   "replies": []
                 }

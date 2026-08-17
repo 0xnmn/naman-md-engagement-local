@@ -1,11 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "path": "/writings/on-weak-men",
   "pageLikes": {
-    "count": 1,
-    "actors": [
-      "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-    ]
+    "count": 1
   },
   "comments": [
     {
@@ -14,10 +11,7 @@
       "text": "Browser verification 1786899862290 <script>alert(\"no\")</script>",
       "createdAt": "2026-08-16T17:04:25.900Z",
       "likes": {
-        "count": 1,
-        "actors": [
-          "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-        ]
+        "count": 1
       },
       "replies": [
         {
@@ -26,10 +20,7 @@
           "text": "Reply to Browser verification 1786899862290",
           "createdAt": "2026-08-16T17:04:28.998Z",
           "likes": {
-            "count": 1,
-            "actors": [
-              "P-A0DRTpi_IOYZfzlvf9xDSGuumCAV0CyK7_BKJSurc"
-            ]
+            "count": 1
           }
         }
       ]
@@ -40,8 +31,7 @@
       "text": "Turnstile verification 1786900689939",
       "createdAt": "2026-08-16T17:18:13.809Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": []
     },
@@ -51,8 +41,7 @@
       "text": "Turnstile verification 1786900751224",
       "createdAt": "2026-08-16T17:19:15.426Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": [
         {
@@ -61,8 +50,7 @@
           "text": "Reply to Turnstile verification 1786900751224",
           "createdAt": "2026-08-16T17:19:18.375Z",
           "likes": {
-            "count": 0,
-            "actors": []
+            "count": 0
           }
         }
       ]
@@ -73,8 +61,7 @@
       "text": "Turnstile verification 1786900795611",
       "createdAt": "2026-08-16T17:20:00.562Z",
       "likes": {
-        "count": 0,
-        "actors": []
+        "count": 0
       },
       "replies": [
         {
@@ -83,7 +70,6 @@
           "text": "Reply to Turnstile verification 1786900795611",
           "createdAt": "2026-08-16T17:20:03.954Z",
           "likes": {
-            "actors": [],
             "count": 0
           }
         }

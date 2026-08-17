@@ -3,55 +3,116 @@
   "title": "naman.md engagement document",
   "type": "object",
   "additionalProperties": false,
-  "required": ["version", "path", "pageLikes", "comments"],
+  "required": [
+    "version",
+    "path",
+    "pageLikes",
+    "comments"
+  ],
   "properties": {
-    "version": { "const": 1 },
-    "path": { "type": "string", "pattern": "^/" },
-    "pageLikes": { "$ref": "#/$defs/likes" },
+    "version": {
+      "const": 2
+    },
+    "path": {
+      "type": "string",
+      "pattern": "^/"
+    },
+    "pageLikes": {
+      "$ref": "#/$defs/likes"
+    },
     "comments": {
       "type": "array",
-      "items": { "$ref": "#/$defs/comment" }
+      "items": {
+        "$ref": "#/$defs/comment"
+      }
     }
   },
   "$defs": {
     "likes": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["actors", "count"],
+      "required": [
+        "count"
+      ],
       "properties": {
-        "actors": {
-          "type": "array",
-          "uniqueItems": true,
-          "items": { "type": "string", "minLength": 1 }
-        },
-        "count": { "type": "integer", "minimum": 0 }
+        "count": {
+          "type": "integer",
+          "minimum": 0
+        }
       }
     },
     "reply": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "name", "text", "createdAt", "likes"],
+      "required": [
+        "id",
+        "name",
+        "text",
+        "createdAt",
+        "likes"
+      ],
       "properties": {
-        "id": { "type": "string", "format": "uuid" },
-        "name": { "type": "string", "minLength": 1, "maxLength": 80 },
-        "text": { "type": "string", "minLength": 1, "maxLength": 4000 },
-        "createdAt": { "type": "string", "format": "date-time" },
-        "likes": { "$ref": "#/$defs/likes" }
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 4000
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "likes": {
+          "$ref": "#/$defs/likes"
+        }
       }
     },
     "comment": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["id", "name", "text", "createdAt", "likes", "replies"],
+      "required": [
+        "id",
+        "name",
+        "text",
+        "createdAt",
+        "likes",
+        "replies"
+      ],
       "properties": {
-        "id": { "type": "string", "format": "uuid" },
-        "name": { "type": "string", "minLength": 1, "maxLength": 80 },
-        "text": { "type": "string", "minLength": 1, "maxLength": 4000 },
-        "createdAt": { "type": "string", "format": "date-time" },
-        "likes": { "$ref": "#/$defs/likes" },
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 4000
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "likes": {
+          "$ref": "#/$defs/likes"
+        },
         "replies": {
           "type": "array",
-          "items": { "$ref": "#/$defs/reply" }
+          "items": {
+            "$ref": "#/$defs/reply"
+          }
         }
       }
     }
