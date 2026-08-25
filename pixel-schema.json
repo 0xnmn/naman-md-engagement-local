@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "naman.md pixel screen",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "createdAt", "rgb"],
+  "properties": {
+    "id": { "type": "string", "format": "uuid" },
+    "name": { "type": "string", "maxLength": 60 },
+    "actor": { "type": "string", "pattern": "^[A-Za-z0-9_-]{43}$" },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "rgb": { "type": "string", "contentEncoding": "base64" }
+  }
+}
