@@ -15,7 +15,20 @@
         "actors": [],
         "count": 0
       },
-      "replies": []
+      "replies": [
+        {
+          "actor": "KRP_gZom9LKki9hPgMr3icnlTCooahV2V6XWB0GMXQY",
+          "id": "4c2cff44-b9f2-4b0f-bd38-ac3f61662985",
+          "name": "Naman",
+          "text": "test",
+          "createdAt": "2026-08-25T08:03:39.115Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          },
+          "replies": []
+        }
+      ]
     },
     {
       "actor": "TAD3OoaBD9688VnR-bXHm4DvPrm7H_QHqX2UNkgOCrU",
