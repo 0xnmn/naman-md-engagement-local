@@ -1,8 +1,21 @@
 {
-  "version": 2,
   "path": "/writings/road-to-kibber",
   "pageLikes": {
+    "actors": [],
     "count": 1
   },
-  "comments": []
+  "comments": [
+    {
+      "actor": "TAD3OoaBD9688VnR-bXHm4DvPrm7H_QHqX2UNkgOCrU",
+      "id": "b6a405cb-9f20-42c8-8203-3a054db0d082",
+      "name": "Naman",
+      "text": "test",
+      "createdAt": "2026-08-25T08:03:26.619Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
+    }
+  ]
 }
