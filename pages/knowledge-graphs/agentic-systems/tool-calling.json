@@ -6,5 +6,18 @@
     ],
     "count": 1
   },
-  "comments": []
+  "comments": [
+    {
+      "actor": "IHMuPDvFRgP8_vK5f9sWdVBVv0HPON71wOhUOqFRFoc",
+      "id": "bc1e4363-6b76-4a77-86b7-53a9896c1e3d",
+      "name": "Naman",
+      "text": "Test",
+      "createdAt": "2026-08-27T15:06:44.155Z",
+      "likes": {
+        "actors": [],
+        "count": 0
+      },
+      "replies": []
+    }
+  ]
 }
