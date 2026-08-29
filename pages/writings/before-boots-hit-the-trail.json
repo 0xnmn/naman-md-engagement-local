@@ -1,8 +1,17 @@
 {
-  "version": 2,
   "path": "/writings/before-boots-hit-the-trail",
   "pageLikes": {
-    "count": 2
+    "count": 2,
+    "entries": [
+      {
+        "id": "legacy:pageLikes:actorless:0",
+        "createdAt": "2026-08-29T00:00:00.000Z"
+      },
+      {
+        "id": "legacy:pageLikes:actorless:1",
+        "createdAt": "2026-08-29T00:00:00.000Z"
+      }
+    ]
   },
   "comments": [
     {
@@ -11,7 +20,8 @@
       "text": "test 6",
       "createdAt": "2026-08-17T03:56:05.575Z",
       "likes": {
-        "count": 0
+        "count": 0,
+        "entries": []
       },
       "replies": []
     },
@@ -21,7 +31,8 @@
       "text": "test",
       "createdAt": "2026-08-17T03:55:50.876Z",
       "likes": {
-        "count": 0
+        "count": 0,
+        "entries": []
       },
       "replies": []
     },
@@ -31,7 +42,8 @@
       "text": "hi",
       "createdAt": "2026-08-16T19:12:26.752Z",
       "likes": {
-        "count": 0
+        "count": 0,
+        "entries": []
       },
       "replies": []
     },
@@ -41,7 +53,13 @@
       "text": "test 3",
       "createdAt": "2026-08-16T18:36:14.083Z",
       "likes": {
-        "count": 1
+        "count": 1,
+        "entries": [
+          {
+            "id": "legacy:comments[3].likes:actorless:0",
+            "createdAt": "2026-08-29T00:00:00.000Z"
+          }
+        ]
       },
       "replies": []
     },
@@ -51,7 +69,8 @@
       "text": "test 2",
       "createdAt": "2026-08-16T18:16:06.700Z",
       "likes": {
-        "count": 0
+        "count": 0,
+        "entries": []
       },
       "replies": [
         {
@@ -60,7 +79,8 @@
           "text": "this is great",
           "createdAt": "2026-08-16T18:25:54.152Z",
           "likes": {
-            "count": 0
+            "count": 0,
+            "entries": []
           },
           "replies": [
             {
@@ -69,7 +89,14 @@
               "text": "reply 2",
               "createdAt": "2026-08-17T04:01:43.266Z",
               "likes": {
-                "count": 0
+                "entries": [
+                  {
+                    "actor": "wcSeOhPGyMI2EOjNBx3oa9JhuxnbZStw_bv1GGw5l_Q",
+                    "id": "0ff3c1bc-57cd-4a5a-9bf0-6d4b0390a889",
+                    "createdAt": "2026-08-29T17:55:14.883Z"
+                  }
+                ],
+                "count": 1
               },
               "replies": []
             },
@@ -79,7 +106,8 @@
               "text": "reply",
               "createdAt": "2026-08-17T03:49:41.975Z",
               "likes": {
-                "count": 0
+                "count": 0,
+                "entries": []
               },
               "replies": []
             }
@@ -93,7 +121,8 @@
       "text": "Test",
       "createdAt": "2026-08-16T18:15:57.259Z",
       "likes": {
-        "count": 0
+        "count": 0,
+        "entries": []
       },
       "replies": []
     }
