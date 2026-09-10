@@ -17,18 +17,14 @@
       "prefix": "on, some moves downward, and some barely moves. The Navier-Stokes equations describe how that entire pattern changes over time. ",
       "suffix": " causes acceleration,” applied to a fluid: Momentum: Moving coffee keeps moving and carries motion into other places. Pressure: ",
       "likes": {
-        "count": 0,
-        "entries": []
-      }
-    },
-    {
-      "id": "6e762d7e-e68d-4bd9-8b6a-072bb45ce5b3",
-      "exact": "Also, smooth doesn’t mean calm. A wildly complicated swirl can still be mathematically smooth. And difficulty predicting a flow is different from the equations actually developing a singularit",
-      "prefix": "ld reveal a limit of the model’s smooth description, not establish that a real espresso can launch itself through the universe. ",
-      "suffix": "y. So what earns the million dollars? Roughly, either: Prove that every allowed starting flow stays smooth forever. Establish an",
-      "likes": {
-        "entries": [],
-        "count": 0
+        "entries": [
+          {
+            "actor": "NYnPEm5F50ZZ-cfDBf15xokJBhJMunZOOmoN9HPlEoM",
+            "id": "1cf8132f-cc84-411b-8017-905070ea2700",
+            "createdAt": "2026-09-10T07:59:14.978Z"
+          }
+        ],
+        "count": 1
       }
     }
   ],
