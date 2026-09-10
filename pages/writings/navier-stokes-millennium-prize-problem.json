@@ -1,10 +1,37 @@
 {
   "path": "/writings/navier-stokes-millennium-prize-problem",
+  "annotations": [
+    {
+      "id": "82786930-0324-4a86-920b-1c2242c08f88",
+      "exact": "Moving coffee keeps moving and carries motion into other places.",
+      "prefix": "that entire pattern changes over time. They are essentially Newton’s “force causes acceleration,” applied to a fluid: Momentum: ",
+      "suffix": " Pressure: Differences in pressure push the coffee around. Viscosity: Internal friction smooths out differences in motion. Think"
+    },
+    {
+      "id": "c85b80e0-f154-4a94-b509-bc49893e4491",
+      "exact": "They are essentially Newton’s “force",
+      "prefix": "on, some moves downward, and some barely moves. The Navier-Stokes equations describe how that entire pattern changes over time. ",
+      "suffix": " causes acceleration,” applied to a fluid: Momentum: Moving coffee keeps moving and carries motion into other places. Pressure: "
+    }
+  ],
   "pageLikes": {
     "count": 0,
     "entries": []
   },
   "comments": [
+    {
+      "actor": "vA2psSAgnLd1HkiAGO3cqCnNTVRM4Ph3i8FvxWcvHLA",
+      "id": "0324927f-adf3-40ba-b803-e482758edced",
+      "name": "Naman",
+      "text": "this is a test comment",
+      "createdAt": "2026-09-10T05:05:38.858Z",
+      "likes": {
+        "count": 0,
+        "entries": []
+      },
+      "replies": [],
+      "annotationId": "c85b80e0-f154-4a94-b509-bc49893e4491"
+    },
     {
       "actor": "vA2psSAgnLd1HkiAGO3cqCnNTVRM4Ph3i8FvxWcvHLA",
       "id": "e215d5be-8414-4290-ab62-c1d89f63d1fc",
@@ -17,14 +44,6 @@
       },
       "replies": [],
       "annotationId": "82786930-0324-4a86-920b-1c2242c08f88"
-    }
-  ],
-  "annotations": [
-    {
-      "id": "82786930-0324-4a86-920b-1c2242c08f88",
-      "exact": "Moving coffee keeps moving and carries motion into other places.",
-      "prefix": "that entire pattern changes over time. They are essentially Newton’s “force causes acceleration,” applied to a fluid: Momentum: ",
-      "suffix": " Pressure: Differences in pressure push the coffee around. Viscosity: Internal friction smooths out differences in motion. Think"
     }
   ]
 }
